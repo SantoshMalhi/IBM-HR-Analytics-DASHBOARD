@@ -18,10 +18,6 @@ To run this project on your machine you need to install <a href="https://powerbi
 
 * Microsoft Power BI
 
-## Credits
-
-This dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
-
 ## Badges
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
