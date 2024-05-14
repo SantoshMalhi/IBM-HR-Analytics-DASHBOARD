@@ -1,0 +1,33 @@
+Questions:
+
+1. What is the average age of employees who left the organization?
+2. Which department has the highest attrition rate among departing employees?
+3. Is there a correlation between salary levels and employee attrition?
+4. How does employee attrition vary with years of experience?
+5. Is there a correlation between educational background and attrition?
+6. What is the disparity in attrition rates between male and female employees?
+7. How does attrition vary across different departments?
+8. Are there differences in attrition rates across salary ranges?
+9. How does attrition vary based on years of experience?
+
+Answers:
+
+1. On average, departing employees are approximately 40 years old.
+2. The Research & Development department has the highest attrition rate, accounting for about 14% of departing employees.
+3. The majority of departing employees belong to the salary range below $5000 per month, with 163 individuals.
+4. Employees with 1 year of experience had the highest attrition rate (25%), followed by those with 2 years (11%) and 3 years (9%).
+5. Among departing employees, 89 had a Life Science background, 63 had a Medical background, and 35 had a Marketing background.
+6. Male employees had an attrition rate of 17%, while female employees had a slightly lower rate of 14.8%.
+7. The Research & Development department had the highest attrition rate at 56%, followed by Sales at 39% and the HR Department at 5%.
+8. The majority (69%) of departing employees fell into the salary range below $5000, while 21% were in the $5000-$10,000 range, 8% in the $10,000-$15,000 range, and 2% in the $20,000+ range.
+
+Recommendations:
+
+1. Implement retention strategies tailored to employees around 40 years old.
+2. Address attrition issues within the Research & Development department.
+3. Enhance compensation and benefits for employees in lower salary ranges.
+4. Develop engagement initiatives for early career employees.
+5. Offer career growth opportunities aligned with educational backgrounds.
+6. Promote diversity and inclusion to mitigate gender-based attrition disparities.
+7. Implement department-specific strategies to reduce attrition in high-risk areas.
+8. Regularly review and adjust salary ranges to remain competitive in the market.
