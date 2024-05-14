@@ -39,5 +39,5 @@ The project was successful in answering the set of questions about the employee'
 
 **Let's Connect:**
 
-- Connect on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/santoshkumarsk/)
+- Connect on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/santoshkumarsk/)
 - Explore more projects: [GitHub Profile](https://github.com/SantoshMalhi)
